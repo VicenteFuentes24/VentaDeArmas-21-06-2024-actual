@@ -1,0 +1,31 @@
+a001,AK-47          ,Kalashnikov_Concern ,Fusil_de_Asalto       ,7.62x39mm   ,10,190000
+a002,M16            ,Colts_Manufacturing ,Fusil_de_Asalto       ,5.56x45mm   ,40,210000
+a003,Glock_17       ,Glock_Ges.m.b.H.    ,Pistola               ,9x19mm      ,60,200000
+a004,Desert_Eagle   ,Magnum_Research     ,Pistola               ,50_Action   ,30,250000
+a005,MP5            ,Heckler&Koch        ,Subfusil              ,9x19mm      ,20,350000                 #Productos
+a006,Remington_870  ,Remington_Arms      ,Escopeta              ,12_gauge    ,20,150000
+a007,SIG_Sauer_P226 ,SIG_Sauer           ,Pistola               ,9x19mm      ,15,250000
+a008,M1_Garand      ,Springfield_Armory  ,Fusil_Semiautomatico  ,30-06_Sprfld,10,180000
+a009,FN_SCAR        ,FN_Herstal          ,Fusil_de_Asalto       ,7.62x51mm   ,35,300000
+a010,Barret_M82     ,Barret_Firearms     ,Fusil_de_Francotirador,.50_BMG     ,10,500000
+
+10001,07-06-2024,a001,2,380000
+10002,07-06-2024,a002,1,210000
+10003,08-06-2024,a003,4,800000
+10004,08-06-2024,a005,6,2100000
+10005,08-06-2024,a004,4,1000000
+10006,09-06-2024,a001,3,570000
+10007,09-06-2024,a007,7,1750000
+10008,10-06-2024,a008,2,360000
+10009,10-06-2024,a009,4,1200000         #Ventas
+10010,11-06-2024,a001,2,380000
+10011,11-06-2024,a002,3,630000
+10012,12-06-2024,a003,5,1000000
+10013,12-06-2024,a004,2,500000
+10014,12-06-2024,a005,2,700000
+10015,13-06-2024,a006,1,150000
+10016,13-07-2024,a007,3,750000
+10017,14-07-2024,a008,1,180000
+10018,14-08-2024,a010,2,1000000
+10019,14-08-2024,a009,3,900000
+10020,15-06-2025,a002,1,210000

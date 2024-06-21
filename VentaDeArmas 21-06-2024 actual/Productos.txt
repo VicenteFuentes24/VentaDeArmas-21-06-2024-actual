@@ -1,0 +1,10 @@
+a001,AK-47          ,Kalashnikov Concern ,Fusil de Asalto       ,7.62x39mm   ,10,190000
+a002,M16            ,Colts Manufacturing ,Fusil de Asalto       ,5.56x45mm   ,40,210000
+a003,Glock 17       ,Glock Ges.m.b.H.    ,Pistola               ,9x19mm      ,60,200000
+a004,Desert Eagle   ,Magnum Research     ,Pistola               ,50 Action   ,30,250000
+a005,MP5            ,Heckler&Koch        ,Subfusil              ,9x19mm      ,20,350000
+a006,Remington 870  ,Remington Arms      ,Escopeta              ,12 gauge    ,20,150000
+a007,SIG Sauer P226 ,SIG Sauer           ,Pistola               ,9x19mm      ,15,250000
+a008,M1 Garand      ,Springfield Armory  ,Fusil Semiautomatico  ,30-06 Sprfld,10,180000
+a009,FN SCAR        ,FN Herstal          ,Fusil de Asalto       ,7.62x51mm   ,35,300000
+a010,Barret M82     ,Barret Firearms     ,Fusil de Francotirador,.50 BMG     ,10,500000
